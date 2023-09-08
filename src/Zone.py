@@ -8,6 +8,7 @@ class Zone(Node.Node):
     # ********** 
     def __init__(self, id):
         # add instance variables as needed
+        pass
     
     # **********
     # Exercise 4(b)
