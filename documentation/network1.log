@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  8 SEP 2023 11:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.16)  10 SEP 2023 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,88 +466,88 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<folder.png, id=69, 919.93687pt x 426.09187pt>
+<folder.png, id=70, 919.93687pt x 426.09187pt>
 File: folder.png Graphic file (type png)
 <use folder.png>
-Package pdftex.def Info: folder.png  used on input line 73.
+Package pdftex.def Info: folder.png  used on input line 75.
 (pdftex.def)             Requested size: 328.82707pt x 152.30717pt.
  [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./folde
 r.png>]
-<netbeans1.png, id=85, 1291.32437pt x 787.44188pt>
+<netbeans1.png, id=86, 1291.32437pt x 787.44188pt>
 File: netbeans1.png Graphic file (type png)
 <use netbeans1.png>
-Package pdftex.def Info: netbeans1.png  used on input line 80.
+Package pdftex.def Info: netbeans1.png  used on input line 82.
 (pdftex.def)             Requested size: 469.75502pt x 286.44666pt.
 
-Overfull \hbox (6.03918pt too wide) in paragraph at lines 85--86
+Overfull \hbox (6.03918pt too wide) in paragraph at lines 87--88
 []\OT1/cmr/m/n/10.95 Each ex-er-cise con-tains some test code. At the end of th
 e \OT1/cmtt/m/n/10.95 test() \OT1/cmr/m/n/10.95 func-tion, it calls the \OT1/cm
 tt/m/n/10.95 autograde()
  []
 
-<netbeans1a.png, id=86, 1296.34312pt x 785.43437pt>
+<netbeans1a.png, id=87, 1296.34312pt x 785.43437pt>
 File: netbeans1a.png Graphic file (type png)
 <use netbeans1a.png>
-Package pdftex.def Info: netbeans1a.png  used on input line 88.
+Package pdftex.def Info: netbeans1a.png  used on input line 90.
 (pdftex.def)             Requested size: 469.75502pt x 284.61378pt.
 [2 <./netbeans1.png>] [3 <./netbeans1a.png>]
-<netbeans2.png, id=114, 1294.33563pt x 791.45688pt>
+<netbeans2.png, id=115, 1294.33563pt x 791.45688pt>
 File: netbeans2.png Graphic file (type png)
 <use netbeans2.png>
-Package pdftex.def Info: netbeans2.png  used on input line 146.
+Package pdftex.def Info: netbeans2.png  used on input line 148.
 (pdftex.def)             Requested size: 469.75502pt x 287.24298pt.
  [4]
-<netbeans3.png, id=127, 230.36063pt x 135.00438pt>
+<netbeans3.png, id=128, 230.36063pt x 135.00438pt>
 File: netbeans3.png Graphic file (type png)
 <use netbeans3.png>
-Package pdftex.def Info: netbeans3.png  used on input line 160.
+Package pdftex.def Info: netbeans3.png  used on input line 162.
 (pdftex.def)             Requested size: 140.92793pt x 82.59149pt.
  [5 <./netbeans2.png> <./netbeans3.png>]
-<netbeans4.png, id=135, 1292.83pt x 787.94376pt>
+<netbeans4.png, id=136, 1292.83pt x 787.94376pt>
 File: netbeans4.png Graphic file (type png)
 <use netbeans4.png>
-Package pdftex.def Info: netbeans4.png  used on input line 169.
+Package pdftex.def Info: netbeans4.png  used on input line 171.
 (pdftex.def)             Requested size: 234.8775pt x 143.14629pt.
-<netbeans5.png, id=136, 565.61313pt x 373.89688pt>
+<netbeans5.png, id=137, 565.61313pt x 373.89688pt>
 File: netbeans5.png Graphic file (type png)
 <use netbeans5.png>
-Package pdftex.def Info: netbeans5.png  used on input line 176.
+Package pdftex.def Info: netbeans5.png  used on input line 178.
 (pdftex.def)             Requested size: 234.8775pt x 155.26129pt.
  [6 <./netbeans4.png> <./netbeans5.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-08.
+10.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 208.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 210.
  [7] [8]
-Overfull \hbox (2.59457pt too wide) in paragraph at lines 300--302
+Overfull \hbox (2.59457pt too wide) in paragraph at lines 302--304
 []\OT1/cmr/m/n/10.95 When we read the file, we will store de-mand in the \OT1/c
 mtt/m/n/10.95 Zone \OT1/cmr/m/n/10.95 in-stance of $\OML/cmm/m/it/10.95 r$ \OT1
 /cmr/m/n/10.95 by call-ing the \OT1/cmtt/m/n/10.95 addDemand(s,
  []
 
 [9]
-<netbeans6.png, id=193, 1053.9375pt x 429.10312pt>
+<netbeans6.png, id=194, 1053.9375pt x 429.10312pt>
 File: netbeans6.png Graphic file (type png)
 <use netbeans6.png>
-Package pdftex.def Info: netbeans6.png  used on input line 362.
+Package pdftex.def Info: netbeans6.png  used on input line 364.
 (pdftex.def)             Requested size: 469.75502pt x 191.26129pt.
  [10 <./netbeans6.png>]
-<netbeans7.png, id=199, 814.54312pt x 353.82187pt>
+<netbeans7.png, id=200, 814.54312pt x 353.82187pt>
 File: netbeans7.png Graphic file (type png)
 <use netbeans7.png>
-Package pdftex.def Info: netbeans7.png  used on input line 401.
+Package pdftex.def Info: netbeans7.png  used on input line 403.
 (pdftex.def)             Requested size: 469.75502pt x 204.05066pt.
  [11 <./netbeans7.png>] [12] [13] [14] [15]
-<netbeans8.png, id=262, 181.42781pt x 178.41656pt>
+<netbeans8.png, id=263, 181.42781pt x 178.41656pt>
 File: netbeans8.png Graphic file (type png)
 <use netbeans8.png>
-Package pdftex.def Info: netbeans8.png  used on input line 653.
+Package pdftex.def Info: netbeans8.png  used on input line 655.
 (pdftex.def)             Requested size: 140.92793pt x 138.59264pt.
  [16]
 (./network1.bbl) [17 <./netbeans8.png>] (./network1.aux)
@@ -582,10 +582,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2021/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2021/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/202
 1/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on network1.pdf (17 pages, 1846563 bytes).
+Output written on network1.pdf (17 pages, 1846634 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 305 compressed objects within 4 object streams
+ 365 PDF objects out of 1000 (max. 8388607)
+ 306 compressed objects within 4 object streams
  74 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
