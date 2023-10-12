@@ -20,10 +20,10 @@ def test():
         
     path = Path.Path()
     if len(links) > 13:
-        path.append(links[0])
+        path.add(links[0])
         path.add(links[3])
-        path.append(links[14])
-        path.append(links[12])
+        path.add(links[14])
+        path.add(links[12])
         
 
         print(path.isConnected())
